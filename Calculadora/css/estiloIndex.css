@@ -1,0 +1,18 @@
+body{
+    background-color: crimson;
+}
+table{
+    width: 25%;
+}
+button{
+    width: 100%;
+    font-size: 150%
+}
+label{
+    width: 100%;
+    font-size: 150%;
+    
+}
+.ac{
+    color:red;
+}
